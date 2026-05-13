@@ -1,0 +1,7 @@
+apiVersion: platform.io/v1
+kind: Tenant
+metadata:
+  name: a
+spec:
+  cpu: "1"
+  memory: "1Gi"
